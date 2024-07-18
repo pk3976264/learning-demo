@@ -1,2 +1,2 @@
 # learning-demo
-with git and github
+with git and github.
